@@ -43,9 +43,9 @@
   <img width="25" />
   <img src="https://cdn.simpleicons.org/notion/000000" height="50" alt="notion logo"  />
   <img width="25" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="50" alt="docker logo"  />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="70" alt="docker logo"  />
   <img width="25" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="50" alt="linux logo"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="70" alt="linux logo"  />
 </div>
 
 ###
