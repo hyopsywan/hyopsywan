@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ ## About Me
+
+I enjoy exploring how systems work by building and testing things in practice. My work here usually involves small tools, security labs, and experiments with infrastructure, networking, web applications and coding ofcourse. I like working close to the system layer — using Linux environments, scripting, containers, and virtualized labs to understand how software behaves in real scenarios. Recently I've also been experimenting with embedded and connected devices, looking at how software interacts with hardware and networks.
+
+This repository space is mainly used to document projects, prototypes, and learning experiments related to development, systems, and security.</p>
 
 ###
 
