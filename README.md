@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Heloísa.T and I'm brazilian</p>
+<p align="left">My name is Heloísa T. and I'm brazilian</p>
 
 ###
 
